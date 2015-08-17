@@ -58,11 +58,11 @@ Now that you have an application id, you can start working with the files.
 
 * Click on the run button to run the server locally. Note the port number for your project (e.g. 8080)
 
-* In a web browser, go to http://localhost:<port\>/_ah/api/explorer to access the API Explorer
+* In a web browser, go to http://localhost:[port]/_ah/api/explorer to access the API Explorer
 
 * You can use this API Explorer to interact with the system e.g. create speakers/sessions, query speaker/sessions etc
 
-* Once you are done with testing locally, you can launch the project online. In Google App Engine Launcher, click on the Deploy button. Your app will appear in the url https://<app\_id\>.appspot.com/_ah/api/explorer
+* Once you are done with testing locally, you can launch the project online. In Google App Engine Launcher, click on the Deploy button. Your app will appear in the url https://[app\_id].appspot.com/_ah/api/explorer
 
 
 ## Explanations
