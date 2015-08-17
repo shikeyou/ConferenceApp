@@ -9,7 +9,9 @@ This is Project 4 for Udacity's Full Stack Web Developer Nanodegree.
 Main objectives of this project:
 
 * Develop an API server hosted on a cloud-based hosting platform (Google App Engine)
-* Enhance features of an existing conference app 
+* Enhance features of an existing conference app
+* Deal with restrictions of querying the datastore e.g. inequality with more than one property
+* Use task push queues to set some transient data on memcache, then query the memcache data when needed
 
 ## Requirements
 
